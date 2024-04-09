@@ -1,9 +1,9 @@
 # Random-Color-Flipper
 I tried to implement my JavaScript coding knowledge into implementation.
 
-Here It will generate random colors for the background and it's color code, too.
-In simple, it will choose random color from the fixed values.
-In hex, it will generate random color from the all possible hex values.
+Here It will generate random colors for the background and its color code, too.
+In simple, it will choose random colors from the fixed values.
+In hex, it will generate a random color from all possible hex values.
 
 Here is the screenshot of my website.
 
